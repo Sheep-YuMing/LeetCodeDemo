@@ -5,6 +5,11 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * ÓÐÐ§µÄÀ¨ºÅ
+ * @author ChaiYuming
+ *
+ */
 public class IsValid {
 	public boolean isValid(String s) {
 		if(s.length()%2 > 0 || s.length() <= 0) {

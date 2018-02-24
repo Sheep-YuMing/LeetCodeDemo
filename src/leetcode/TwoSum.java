@@ -2,6 +2,11 @@ package leetcode;
 
 import java.util.Arrays;
 
+/**
+ * 两数之和
+ * @author ChaiYuming
+ *
+ */
 public class TwoSum {  
     public static int[] twoSum(int[] nums, int target) {
     	int[] result = new int[2];

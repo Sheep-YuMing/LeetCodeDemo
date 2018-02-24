@@ -3,6 +3,11 @@ package leetcode;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
+/**
+ * Word Pattern
+ * @author ChaiYuming
+ *
+ */
 public class WordPattern {
 	public boolean wordPattern(String pattern, String str) {
 		String strValue = "";
